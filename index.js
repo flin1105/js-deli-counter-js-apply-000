@@ -1,6 +1,9 @@
-function takeANumber (katzDeliLine,x){
-  katzDeliLine.push(x);
-  return ('Welcome, ' + x + '. You are number ' + katzDeliLine.length + ' in line.');
+var counter=0;
+function takeANumber (katzDeliLine){
+  var last =[]
+  while (var i=0 <katzDeliLine.length){
+  
+  return ('Welcome! You are number ' + );
 }
 
 function nowServing (katzDeliLine) {
